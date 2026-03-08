@@ -24,7 +24,7 @@ All features operate locally on the user's computer.
 
 2. Eligibility
 
-You must be at least 13 years old to use this software.
+You must be at least 11 years old to use this software.
 
 By using the software, you represent that you meet this minimum age requirement.
 
