@@ -1,4 +1,4 @@
-Privacy Policy – Dev Tools Kit
+Privacy Policy – Dev Work Tools 
 
 Last updated: March 8, 2026
 
@@ -6,7 +6,7 @@ This Privacy Policy explains how Dev Tools Kit, developed by Rascunho, handles i
 
 1. Overview
 
-Dev Tools Kit is designed to respect user privacy. The software operates locally on the user's computer and does not collect personal data.
+Dev Work Tools is designed to respect user privacy. The software operates locally on the user's computer and does not collect personal data.
 
 2. Information Accessed by the Software
 
@@ -24,7 +24,7 @@ This information is used only for displaying system information within the appli
 
 3. No Personal Data Collection
 
-Dev Tools Kit does not collect personal information, including:
+Dev Work Tools does not collect personal information, including:
 
 names
 
