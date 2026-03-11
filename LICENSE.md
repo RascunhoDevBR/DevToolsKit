@@ -1,4 +1,4 @@
-End User License Agreement (EULA) – Dev Tools Kit
+End User License Agreement (EULA) – Dev Work Tools
 
 Last updated: March 8, 2026
 
