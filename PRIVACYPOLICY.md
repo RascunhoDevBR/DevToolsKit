@@ -2,7 +2,7 @@ Privacy Policy – Dev Work Tools
 
 Last updated: March 8, 2026
 
-This Privacy Policy explains how Dev Tools Kit, developed by Rascunho, handles information when you use the software.
+This Privacy Policy explains how Dev Work Tools, developed by Rascunho, handles information when you use the software.
 
 1. Overview
 
