@@ -1,4 +1,4 @@
-Terms of Use – Dev Tools Kit
+Terms of Use – Dev Work Tools
 
 Last updated: March 8, 2026
 
