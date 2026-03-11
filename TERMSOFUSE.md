@@ -2,7 +2,7 @@ Terms of Use – Dev Work Tools
 
 Last updated: March 8, 2026
 
-These Terms of Use govern the use of the software Dev Tools Kit, developed by Rascunho. By installing or using the software, you agree to these Terms.
+These Terms of Use govern the use of the software Dev Work Tools A2, developed by Rascunho. By installing or using the software, you agree to these Terms.
 
 If you do not agree with any part of these Terms, you must not use the software.
 
