@@ -6,7 +6,7 @@ AND WRITE YOUR PROBLEM WITH THE APPLICATION.
 
 OBSERVATION: THE SETUP FILE IS NOT FINISHED YET. 
 
-Version: Alpha 2.0.0
+Version: Pre-Beta 1.0.0
 
 
 made by: Bol0Dev_ & JustForzaDev
